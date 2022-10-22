@@ -18,7 +18,7 @@ In this paper, four models, YOLOv3, YOLOv4, YOLOv5s and improved Resnet_YOLO, we
 four models, YOLOv3, YOLOv4, YOLOv5s and improved Resnet_YOLO, were used to detect .  
 
 <p align="center">
-  <img align="middle" width="600" src="data/ResNet.jpg"/><img align="middle" width="600" src="data/ResNet_YOLO model.jpg"/>
+  <img align="middle" width="400" src="data/ResNet.jpg"/><img align="middle" width="400" src="data/ResNet_YOLO model.jpg"/>
 </p>
 
 The improved Resnet_YOLO model performed best among the four models: the best weights size was the smallest at 14 MB; the better mAP value of 0.971 for all classes of cucurbits; and the fastest detection speed with fps of 90.9.
@@ -30,7 +30,7 @@ The improved Resnet_YOLO model performed best among the four models: the best we
 This results shows that four types of cucurbit fruit images, bitter melon, cucumber, white melon, and "Boyang 9" melon, can be detected based on deep learning methods for hybrid detection.
 
 <p align="center">
-  <img align="middle" width="800" src="data/results.png"/>
+  <img align="middle" width="600" src="data/results.png"/>
 </p>
 
 
