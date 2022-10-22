@@ -2,7 +2,6 @@
 
 ### **[Detection of cucurbits’ fruits based on deep learning](https://www.engineeringvillage.com/search/quick.url?SEARCHID=ad9b2cab162442d48b46020a5aad0141&COUNT=1&usageOrigin=&usageZone=#foo), [INMATEH - Agricultural Engineering [bib](https://github.com/xieyonghao/DCFB-Deep-Learning)]**  
 Fan ZHAO, Jiawei ZHANG, Na ZHANG, Zhiqiang TAN, [Yonghao XIE](https://github.io/xieyonghao), Song ZHANG, Zhe HAN, Mingbao LI*
-[Jiwe Zhang], [Yonghao Xie](https://github.io/xieyonghao), [Mingze Yuan], [Mingbao Li*]   
 
 In this paper, four models, YOLOv3, YOLOv4, YOLOv5s and improved Resnet_YOLO, were used to detect mixed bitter melon, cucumber, white melon, and "Boyang 9" melon fruits. Fruit images of bitter melon, cucumber, white melon and "Boyang 9" melon were collected under different natural conditions for model training.
 
@@ -54,4 +53,4 @@ Thank you for the support of the National Key Technologies Research and Developm
 
 ## Contact
 
-Mingbao Li(2020111721@nefu.edu.cn)
+Mingbao Li(lmbnefu@126.com)
